@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 
 - 🔭 I'm currently working on an MVP for busy people who loves to learn
-- 🌱 I’m currently learning ML & NLP
+- 🌱 I’m currently working on ML & NLP
 - 💪🏼 I’m looking to collaborate on any NLP-related project
 - 💬 Ask me about meditation, nutrition, or Star Trek
 - 📫 How to reach me: digital@ivanperez.pe
