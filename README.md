@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-- 🔭 I'm currently working on my pet project for busy people who love to learn
+- 🔭 I'm currently working on applied data science projects in the sports field
 - 🌱 I’m currently working as an ML & NLP Engineer
 - 💪🏼 I love to bike, swim and walk in the forest. Can't live without sun, beach, fitness, and nature.
 - 💬 Ask me about meditation, nutrition, or Star Trek
